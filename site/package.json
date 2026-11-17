@@ -1,0 +1,9 @@
+{
+  "name": "capstone-team-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "First read-only website for the SUTD capstone build team.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
